@@ -1,8 +1,0 @@
-[
-  { "id": "1", "title": "AniStream", "description": "A high-performance Animes and movies streaming platform, built with Node.js and React vite.", "tags": ["React", "Node.js", "GraphQL", "PostgreSQL"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20142035.png?raw=true" },
-  { "id": "2", "title": "Lumina luxe", "description": "Premium store lumina luxe with premium vibe made for premium costomer through attractivenss", "tags": ["js", "vite", "Next.js", "Tailwind"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20143756.png?raw=true" },
-  { "id": "3", "title": "Resume Builder Pro", "description": "Resume builder pro can be used in daily productivity but its still need improvement. ths is beta version.", "tags": ["js", "html", "css", "etc"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20165527.png?raw=true" },
-  { "id": "4", "title": "Resume Builder lite", "description": "Its lite version of resume builder pro.", "tags": ["html", "css", "js"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20173129.png?raw=true" },
-  { "id": "5", "title": "Admin Dashboard", "description": "Admin Dashboard for managing e-commerce features and user data.", "tags": ["Next.js", "react", "tailwindcss"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20182102.png?raw=true" },
-  { "id": "6", "title": "Luxebite", "description": "Premium food delivering service with luxurious amenities.", "tags": ["React", "js", "Tailwindcss"], "demoUrl": "https://github.com/bipulray1t/assests/blob/main/Screenshot%202026-03-27%20185651.png?raw=true" }
-]
